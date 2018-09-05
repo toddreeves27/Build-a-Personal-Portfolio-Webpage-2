@@ -1,0 +1,58 @@
+#welcome-section {
+  height: 100vh;
+  background-color: #a6bcbc;
+  text-align: center;
+  Padding-top: 500px;
+}
+
+#projects {
+  height: 100vh;
+  background-color: #c5c9c9;
+  text-align: center;
+  Padding-top: 0px;
+}
+
+.project-tile {
+
+}
+
+#profile-link {
+    
+}
+
+#navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    font-size: 30px;
+    background-color: #c4c4c4;
+}
+.topnav-right {
+  float: right;
+  padding-right: 100px;
+}
+
+.topnav-right a {
+  float: left;
+  color: #444;
+  text-align: center;
+  padding: 14px 40px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.topnav-right a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav-right a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+.container-fluid {
+    
+}
